@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"respective_pipelines","Source":"./modules/pubsub_to_bigquery_table","Dir":"modules/pubsub_to_bigquery_table"}]}
