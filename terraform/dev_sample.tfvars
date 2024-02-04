@@ -1,5 +1,5 @@
-project_id = "gcp-demo-telemetry"
-location = "europe-west2"
+project_id = "YOUR_PROJECT_ID"
+location = "YOUR_CHOSEN_GCP_LOCATION"
 
 static_schema_dataset = "static_dataset"
 dead_letter_topic = "dead_letter_topic"

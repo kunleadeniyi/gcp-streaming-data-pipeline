@@ -5,3 +5,4 @@ terraform/.terraform.lock.hcl
 credentials*.json
 venv/
 src/__pycache__/
+terraform/dev.tfvars
